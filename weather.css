@@ -1,0 +1,23 @@
+body { 
+    
+    background-image: url('ragul.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+.form-control-lg{
+    max-width: 400px;
+    margin-left: 560px;
+}
+
+#weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
